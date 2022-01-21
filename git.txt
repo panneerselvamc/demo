@@ -1,0 +1,31 @@
+Installation 
+    https://www.youtube.com/watch?v=2j7fD92g-gE
+
+What is GIT and GITHUB?
+    https://www.youtube.com/watch?v=hTYsf6bdSJ8
+
+1.GIT & GITHUB + OTHER TOOLS
+2.VERSION CONTROL
+3.MULTIPLE DEV + DEVELOP
+4.REPO CREATION
+5.CLONE
+
+
+
+Notes:
+
+URL: https://github.com/
+
+Steps to install GIT:
+    1. Download Git from https://git-scm.com/downloads
+    2. Adding SSH Key
+        https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+    3. Config
+            $ git config --global user.name “Jon Rosado”
+            $ git config --global user.email “jon.rodado42@gmail.com"
+    4. Commands:
+        To initialize a empty git: git init
+        To check the file change status: git status
+        To add files: git add <FileName>
+        
+    

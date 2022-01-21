@@ -1,0 +1,11 @@
+Installation 
+    https://www.youtube.com/watch?v=2j7fD92g-gE
+
+What is GIT and GITHUB?
+    https://www.youtube.com/watch?v=hTYsf6bdSJ8
+
+1.GIT & GITHUB + OTHER TOOLS
+2.VERSION CONTROL
+3.MULTIPLE DEV + DEVELOP
+4.REPO CREATION
+5.CLONE
