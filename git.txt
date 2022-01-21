@@ -27,5 +27,8 @@ Steps to install GIT:
         To initialize a empty git: git init
         To check the file change status: git status
         To add files: git add <FileName>
+        To commit the files: git commit -m "some text"
+        To push the code to remote repo: git push origin branchName
+
         
     
